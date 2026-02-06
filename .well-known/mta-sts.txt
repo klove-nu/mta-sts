@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
-mx: klove-nu.mail.protection.outlook.com
+mx: klove-nu.a-v1.mx.microsoft
 max_age: 604800
